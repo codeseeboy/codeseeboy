@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F75C7E&width=650&lines=Shashikant+Rajput;AI+%2F+Machine+Learning+Engineer;RAG+%C2%B7+LLMs+%C2%B7+Computer+Vision+%C2%B7+Backend)](https://github.com/codeseeboy)
 
 ![Profile views](https://komarev.com/ghpvc/?username=codeseeboy&label=Profile%20views&color=blueviolet&style=flat-square)
-<a href="https://github.com/codeseeboy?tab=followers"><img src="https://img.shields.io/github/followers/codeseeboy?label=Followers&style=social" alt="Followers" /></a>
+<a href="https://github.com/codeseeboy?tab=followers"><img src="https://img.shields.io/github/followers/codeseeboy?label=Followers&style=flat-square&logo=github&logoColor=white&color=blueviolet&cacheSeconds=1800" alt="Followers" /></a>
 
 # Hi, I'm Shashikant 👋
 
